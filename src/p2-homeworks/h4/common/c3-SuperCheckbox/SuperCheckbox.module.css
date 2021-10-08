@@ -8,7 +8,7 @@ appearance: none;
 }
 .checkbox:checked{
     appearance: none;
-    background-image: url("open.png") ;
+    background-image: url("../../../../../../friday/src/components/checkbox/open.png") ;
 
 }
 .checkbox:focus{
